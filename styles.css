@@ -1,0 +1,72 @@
+body{
+    background-image: linear-gradient(to right, rgb(141, 132, 117) , rgb(255, 179, 0));
+}
+
+.mac{
+    margin: auto;
+    width: 70%;
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+
+#im{
+    width: 100%;
+    border-radius: 15px;
+}
+
+#txt{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    font-size: 2rem;
+}
+
+.display{
+    display: flex;
+    margin: auto;
+    width: 70%;
+    position: relative;
+}
+
+.text{
+    width: 700px;
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#search{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#select{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#most{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+#least{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#link{
+    margin: auto;
+    width: 70%;
+    position: relative;
+}
